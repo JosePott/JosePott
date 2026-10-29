@@ -1,4 +1,4 @@
-# Hola, soy JosePott
+# Hola, soy Jose ;)
 
 Desarrollo proyectos web y móviles con JavaScript, TypeScript y React. Me interesa transformar necesidades cotidianas en aplicaciones útiles: gestión de equipos, organización de lecturas y aprendizaje interactivo.
 
